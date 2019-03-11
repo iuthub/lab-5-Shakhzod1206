@@ -1,0 +1,6 @@
+sssss;MC;223234;Visa
+wwww;MB;12123;MasterCard
+wwww;MB;12123;MasterCard
+wwww;MB;12123;MasterCard
+wwww;MB;12123;MasterCard
+wwww;MB;12123;MasterCard
